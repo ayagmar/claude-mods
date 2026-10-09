@@ -11,7 +11,7 @@
         "source": "git-subdir",
         "url": "https://github.com/ayagmar/claude-modmgr.git",
         "path": "plugin",
-        "ref": "modmgr--v0.2.0"
+        "ref": "modmgr--v0.3.0"
       },
       "description": "Discover, install, inspect, toggle, update and debug Claude Code mods (function-hook plugins).",
       "homepage": "https://ayagmar.github.io/claude-modmgr/",
