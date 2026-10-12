@@ -13,7 +13,7 @@
         "path": "plugin",
         "ref": "modmgr--v0.4.0"
       },
-      "description": "Discover, install, inspect, toggle, update and debug Claude Code mods (function-hook plugins).",
+      "description": "Search Claude Code mods, see what each can reach before you install it, and install, toggle, update or remove them with /mods.",
       "homepage": "https://ayagmar.github.io/claude-modmgr/",
       "category": "development"
     }
