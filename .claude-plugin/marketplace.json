@@ -11,7 +11,7 @@
         "source": "git-subdir",
         "url": "https://github.com/ayagmar/claude-modmgr.git",
         "path": "plugin",
-        "ref": "modmgr--v0.4.2"
+        "ref": "modmgr--v0.5.0"
       },
       "description": "Search Claude Code mods, see what each can reach before you install it, and install, toggle, update or remove them with /mods.",
       "homepage": "https://ayagmar.github.io/claude-modmgr/",
