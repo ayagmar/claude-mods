@@ -1,6 +1,9 @@
 {
   "name": "ayagmar",
-  "owner": { "name": "ayagmar", "url": "https://github.com/ayagmar" },
+  "owner": {
+    "name": "ayagmar",
+    "url": "https://github.com/ayagmar"
+  },
   "metadata": {
     "description": "Claude Code mods by ayagmar."
   },
@@ -15,6 +18,18 @@
       },
       "description": "Search Claude Code mods, see what each can reach before you install it, and install, toggle, update or remove them with /mods.",
       "homepage": "https://ayagmar.github.io/claude-modmgr/",
+      "category": "development"
+    },
+    {
+      "name": "embers",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ayagmar/embers.git",
+        "path": "embers",
+        "ref": "embers--v0.1.0"
+      },
+      "description": "Writes a handoff just before the prompt cache lapses and, when you come back cold, lets you continue from it instead of rewriting the whole conversation.",
+      "homepage": "https://github.com/ayagmar/embers",
       "category": "development"
     }
   ]
