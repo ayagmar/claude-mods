@@ -26,7 +26,7 @@
         "source": "git-subdir",
         "url": "https://github.com/ayagmar/embers.git",
         "path": "embers",
-        "ref": "embers--v0.1.0"
+        "ref": "embers--v0.2.0"
       },
       "description": "Writes a handoff just before the prompt cache lapses and, when you come back cold, lets you continue from it instead of rewriting the whole conversation.",
       "homepage": "https://github.com/ayagmar/embers",
